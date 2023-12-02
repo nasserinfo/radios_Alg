@@ -1,0 +1,71 @@
+body{
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    background-image:url(espace.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+#textes{
+width: 300px;
+background-color: rgb(128, 128, 128);
+opacity: 50%;
+
+}
+
+#audios{
+    width: 300px;
+background-color: grey;
+opacity: 50%;
+}
+
+#bouttons{
+    width: 300px;
+    background-color: grey;
+    opacity: 50%;
+}
+
+#texte1{
+ background-color: rgb(165, 42, 63);
+ color: white;
+
+}
+
+#texte2{
+    background-color: rgb(165, 42, 63);
+    color: white;
+}
+
+#btn1,#btn2{
+margin: 20px;
+height: 70px;
+width: 70px;
+border-radius: 50%;
+color: blue;
+font-size: 15px;
+}
+
+select{
+    margin-top: 40px;
+    color: blue;
+    font-size: 15px;
+
+}
+img{
+    width: 25px;
+    height: 25px;
+    margin: 30px; 
+}
+
+img:hover{
+    width: 35px;
+    height: 35px;
+    
+}
+p{
+    font-size: large;
+    color: burlywood;
+}
