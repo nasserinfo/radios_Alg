@@ -1,6 +1,6 @@
 body{
     width: 100%;
-    height: 600px;
+    height: 100%;
     display: flex;
     justify-content: center;
     background-image:url(espace.webp);
@@ -31,6 +31,7 @@ opacity: 50%;
 #texte1{
  background-color: rgb(165, 42, 63);
  color: white;
+ 
 
 }
 
